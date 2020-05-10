@@ -1,0 +1,6 @@
+model_checkpoint_path: "poetry-25999"
+all_model_checkpoint_paths: "poetry-25199"
+all_model_checkpoint_paths: "poetry-25399"
+all_model_checkpoint_paths: "poetry-25599"
+all_model_checkpoint_paths: "poetry-25799"
+all_model_checkpoint_paths: "poetry-25999"
