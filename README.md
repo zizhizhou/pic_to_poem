@@ -4,3 +4,4 @@
 图片训练集为cifar100  
 使用tkinter编写UI    
 运行start.py运行程序  
+训练结果太大未能上传  
